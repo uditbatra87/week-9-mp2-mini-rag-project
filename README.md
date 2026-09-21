@@ -1,11 +1,11 @@
 # MP2: Mini-RAG System for Sherlock Holmes Stories
 
-**IITM Week 9 Graded Mini Project**
+**IIT Madras Week 9 Graded Mini Project**
 
 A complete Retrieval-Augmented Generation (RAG) pipeline built from scratch for question-answering over a corpus of Sherlock Holmes stories.
 
 **Submission Date:** September 2026  
-**Course:** IITM AI/ML Programme — Week 9  
+**Course:** IIT Madras AI/ML Programme — Week 9  
 **GitHub:** https://github.com/uditbatra87/week-9-mp2-mini-rag-project
 
 ## 📋 Project Overview
@@ -338,12 +338,12 @@ High latency (>2s) may indicate:
 
 ## 📝 License
 
-Educational project for IITM Week 9 Graded Mini Project. Corpus from public domain Sherlock Holmes stories.
+Educational project for IIT Madras Week 9 Graded Mini Project. Corpus from public domain Sherlock Holmes stories.
 
 ---
 
 **Author:** Udit Batra  
 **Date:** September 2026  
-**Course:** IITM AI/ML Programme — Week 9  
+**Course:** IIT Madras AI/ML Programme — Week 9  
 **Project:** MP2 Mini-RAG System  
 **GitHub:** https://github.com/uditbatra87/week-9-mp2-mini-rag-project
