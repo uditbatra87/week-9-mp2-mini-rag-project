@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+
+# Environment variables - DO NOT COMMIT REAL API KEYS!
+.env
+
+# Qdrant data
+qdrant_storage/
+data/db/
+data/qdrant/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.log
+
+# Documentation temp files (not needed for submission)
+SETUP_NOTES.md
+NEXT_STEPS.md
+PROJECT_COMPLETE.md
+GITHUB_SUBMISSION.md
+
+# Reference materials and instructions (optional to include)
+reference-code/
+instructions.txt
+MP2_FAQ.md
+*.docx
