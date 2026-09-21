@@ -5,7 +5,8 @@
 A complete Retrieval-Augmented Generation (RAG) pipeline built from scratch for question-answering over a corpus of Sherlock Holmes stories.
 
 **Submission Date:** September 2026  
-**Course:** IITM AI/ML Programme — Week 9
+**Course:** IITM AI/ML Programme — Week 9  
+**GitHub:** https://github.com/uditbatra87/week-9-mp2-mini-rag-project
 
 ## 📋 Project Overview
 
@@ -35,11 +36,11 @@ Query → Retrieve Top-3 → Format Context → LLM → Answer + Citations
 ```
 Week 9_Graded Mini Project/
 ├── mp2_rag.py                      # Main implementation (all TODOs completed)
-├── .env                            # Environment configuration
+├── .env.example                    # Environment configuration template
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # This file
 ├── mp2_reflection.md               # Technical reflection and analysis
-├── SETUP_NOTES.md                  # Detailed setup instructions
+├── mp2_validation.txt              # Validation run output
 │
 ├── corpus/                         # Source documents
 │   ├── 01_red_headed_league.txt
@@ -341,7 +342,8 @@ Educational project for IITM Week 9 Graded Mini Project. Corpus from public doma
 
 ---
 
-**Author:** [Your Name]  
+**Author:** Udit Batra  
 **Date:** September 2026  
 **Course:** IITM AI/ML Programme — Week 9  
-**Project:** MP2 Mini-RAG System
+**Project:** MP2 Mini-RAG System  
+**GitHub:** https://github.com/uditbatra87/week-9-mp2-mini-rag-project

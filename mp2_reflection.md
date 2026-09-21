@@ -1,5 +1,7 @@
 # MP2 Reflection
 
+**GitHub:** https://github.com/uditbatra87/week-9-mp2-mini-rag-project
+
 ## What worked
 
 The paragraph-based chunking worked really well for me. I tried splitting the text on double newlines (`\n\n`) instead of just cutting at every 500 characters, and this made a huge difference. I also added a simple check to detect section headers - basically if a line is short and doesn't end with punctuation like a period or comma, I treat it as a header. This way each chunk has proper context about what section it belongs to.
